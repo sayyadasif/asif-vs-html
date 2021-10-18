@@ -1,0 +1,63 @@
+.parent{
+    border: 20px solid ;
+    width: 50%;
+    background-color: darkgreen;
+    padding-left: 200px;
+    padding-bottom: 40px;
+    margin-left: 200px;
+}
+img{
+    border: 20px solid;
+    padding: 70px;
+    margin-top: 30px;
+    height: 500px;
+    background-color: darkgoldenrod;
+
+
+}
+h1{
+    padding: 20px 40px 20px 40px;
+    margin-left: 200px;
+    width: 50%;
+    margin-bottom: 40px;
+    background-image: url(./Tulips.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    text-align: center;
+    color: mediumblue;
+    
+
+}
+h2{
+    
+    background-color: mediumvioletred;
+    padding: 30px;
+    margin-right: 800px;
+    width: 30%;
+    padding-left: 50px;
+    text-align: center;
+    }
+    h3{
+        text-align: center;
+    }
+style{
+    margin-left: 200px;
+    margin: 50px;
+}
+table , th , td{
+    text-align: center;
+    border-style: solid;
+    padding: 20px;
+    padding-left: 60px;
+    margin: 40px;
+    margin-left: 600px;
+    background-color: lightskyblue;
+    color: rgb(12, 12, 250);
+    background-image: url(./Chrysanthemum.jpg);
+    background-repeat: no-repeat;
+    
+
+    
+    
+}

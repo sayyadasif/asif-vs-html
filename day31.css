@@ -1,0 +1,48 @@
+.mdiv{
+    background-color: blue;
+    width: 100%;
+
+}
+*{
+    padding: 0px;
+    margin: 0px;
+}
+body{
+    background-color: darkgreen;
+}
+@media screen and (max-width:500px) {
+    .mdiv{
+        background-color: darkmagenta;
+
+    }
+    body{
+        background-color: darkolivegreen;
+    }
+    
+}
+@media screen and (min-width:500px) and (max-width:900px) {
+    .mdiv{
+        background-color: rgb(219, 125, 17);
+
+    }
+    body{
+        background-color: rgb(52, 11, 238);
+    }
+    
+}
+@media screen and (min-width:900px) {
+    .mdiv{
+        background-color: rgb(216, 234, 241);
+
+    }
+    body{
+        background-color: rgb(247, 16, 16);
+    }
+    
+}
+    @media screen and (max-width:500px) {
+        .mdiv{
+            background-color: bisque;
+        }
+        
+    }

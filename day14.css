@@ -1,0 +1,24 @@
+/* tr{
+    border-radius: 100px solid;
+} */
+
+div{
+
+    color: blue;
+}
+span{
+    color: blue;
+}
+label{
+    color: rgb(151, 29, 233);
+}
+button{
+    border-radius: 400px;
+}
+textarea{
+    border-radius: 10px;
+
+}
+ body{
+     border-radius: 10px;
+ }

@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+.box{
+    background-color: red;
+    /* border: 2px solid black; */
+    text-align: center;
+    font-size: 45px;
+    display: none;
+}
+@media only screen and (max-width:300px){
+    #box-1{
+        display: block;
+        background-color: chartreuse;
+        color: darkgreen;
+    }
+}
+@media  only screen and (max-width:500px)and (min-width:300px){
+    #box-2{
+        display: block;
+        background-color: darkblue;
+        color: white;
+    }
+}
+@media only screen and (max-width:800px)and (min-width:500px){
+    #box-3{
+        display: block;
+        background-color: rgb(238, 200, 30);
+        color: rgb(55, 233, 19);
+    }
+}
+@media only screen and (max-width:1000px)and (min-width:800px){
+    #box-2{
+        display: block;
+        background-color: rgb(231, 78, 124);
+        color: rgb(41, 47, 100);
+    }
+}
+/* @media screen, 3D {
+  P { color: green; }
+} */
+
+    </style>
+</head>
+<body>
+    <div class="box" id="box-1">computer</div>
+    <div class="box" id="box-2">laptop</div>
+    <div class="box" id="box-3">mobile</div>
+    <div class="box" id="box-4">iphone</div>
+    
+</body>
+</html>

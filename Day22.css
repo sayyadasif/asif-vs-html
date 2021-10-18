@@ -1,0 +1,35 @@
+.div1{
+    background-color: blue;
+    height: 400px;
+    width: 400px;
+    box-shadow: 30px 40px 30px
+    black;
+    padding-top: 200px;
+    align-items: center;
+    padding: left 30px;
+    padding-right: 30px;
+    padding-bottom: 90px;
+    border-radius: 90px ;
+    box-shadow: 50px black; 
+    display: flex;  
+    justify-content: center; 
+}
+.div2{
+    height: 200px;
+    width: 200px;
+    background-color: crimson;
+    border-radius: 50%;
+    margin-left: 100px;
+    position: center;
+    text-align: center;
+    position: relative;
+    margin-top: 30px;
+    justify-content: center;
+    display: flex;
+}
+div{
+    display: flex;
+    margin: 40px;
+    border: 10px solid black;
+}
+

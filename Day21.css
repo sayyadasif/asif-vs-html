@@ -1,0 +1,46 @@
+.myclass{
+    display: flex;
+    border: 20px solid rgb(19, 226, 98);
+    height: 45vh;
+    flex-direction: row-reverse;
+    justify-content:center;
+    align-items: center;
+    flex-wrap: wrap-reverse;
+    flex-flow: row;
+    
+
+}
+
+.student{
+background-color: brown;
+border: 10px solid blue;
+margin: 20px;
+width: 110px;
+height: 110px;
+}
+.item1{ order: 1;
+    align-self: baseline;
+
+
+
+}
+.item2{
+    order: 2;
+    
+    flex-grow: 3;
+
+
+}
+.item3{
+    order: 3;
+    flex-grow: 3;
+
+
+}
+.item4{
+    order: 4;
+    align-self: baseline;
+    
+
+
+}

@@ -1,0 +1,88 @@
+.maindiv{
+    display: flex;
+    border: 5px solid;
+    color: black;
+    flex-wrap: wrap-reverse;
+    justify-content: space-between;
+    margin-bottom: 50px;
+    background-image: url(./Hydrangeas.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+
+}
+.div{
+
+    height: 50px;
+    width: 50px;
+    padding: 10px;
+    margin: 10px;
+background-color: chartreuse;
+background-image: url();
+
+/* background-image: url();  */
+}
+
+.maindiv1{
+display: flex;
+background-color: darkseagreen;
+border: 5px solid;
+color: darkblue; 
+flex-wrap: wrap-reverse;
+justify-content: space-around;
+background-image: url(./Hydrangeas.jpg);
+background-repeat: no-repeat;
+background-position: center;
+margin-bottom: 50px;
+
+}
+.div2{
+    height: 50px;
+    width: 50;
+    padding: 10px;
+    margin: 10px;
+    background-color: darkmagenta;
+    background-image: url(./Hydrangeas.jpg);
+    
+
+}
+.maindiv2{display: flex;
+    background-color: darkseagreen;
+    border: 5px solid;
+    color: darkblue;
+    flex-wrap: wrap-reverse;
+    justify-content: space-evenly;
+    margin-bottom: 50px;
+    background-image: url(./Hydrangeas.jpg);
+    background-position: bottom;
+    background-repeat: no-repeat;
+
+
+}
+.div3{ height: 50px;
+    width: 50;
+    padding: 10px;
+    margin: 10px;
+    background-color: rgb(235, 108, 118);
+    background-image:url(../Hydrangeas.jpg);
+    
+    
+
+}
+.maindiv3 { 
+    display: flex;
+    background-color: darkseagreen;
+    border: 5px solid;
+    color: darkblue;
+    flex-wrap: wrap-reverse;
+    justify-content: center;
+    
+    background-position: center;
+    background-image: url(./Hydrangeas.jpg);
+}
+.div4{ height: 50px;
+    width: 50px;
+    padding: 10px;
+    margin: 10px;
+    background-color: rgb(235, 108, 118);
+    background-image: url(./Hydrangeas.jpg);
+}

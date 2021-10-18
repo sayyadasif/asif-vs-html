@@ -1,0 +1,31 @@
+.parent{
+    border: 30px solid rgb(247, 27, 162);
+    width: 40%;
+    margin: 20px;
+    margin-left: 300px;
+ padding: 30px;
+ color: rgb(121, 121, 231);
+ background-color: darkturquoise;
+}
+.child{
+    border: 20px dotted green;
+    width: 60%;
+    margin: 5px;
+    padding: 30px 40px 50px 60px;
+    background-color: darkkhaki;
+    background-image: url(./Hydrangeas.jpg);
+    background-repeat: no-repeat;
+    
+    
+
+}
+h1{
+    background-color: rgb(100, 230, 122);
+    border: 20px dotted;
+    padding: 30px;
+    width: 40%;
+    margin-top: 30px;
+    margin-left: 300px;
+    margin-bottom: 20px;
+    
+}

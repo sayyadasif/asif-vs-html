@@ -1,0 +1,50 @@
+nav{
+    display: flex;
+    justify-content: space-around;
+    background-color: cadetblue;
+    height: 50px;
+    border-radius: 18px;
+    display: ;
+}
+body{
+    padding: 0px;
+    margin: 0px;
+}
+img{
+    width: 70px;
+    height: 50px;
+    border-radius: 20px;
+    box-shadow: 10px 10px black;
+    
+}
+.atm{
+    display: flex;
+    align-items: center;
+
+}
+.atm1{
+    padding: 10px;
+    margin: 10px;
+    text-decoration: none;
+    border-radius: 10px;
+    color: cornsilk;
+    box-shadow: 10px 10px black;
+    
+}
+input{
+    border-radius: 5px;
+    padding-left: 30px;
+    box-shadow: 10px 10px black;
+}
+body{
+    background-image: url(https://images.unsplash.com/photo-1624521793559-136bfe16fc86?ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8YW1hem9ufGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+a:hover{
+    background-color: gold;
+    background-image: url(/Chrysanthemum.jpg);
+    background-size: cover;
+    color: bisque;
+
+}
